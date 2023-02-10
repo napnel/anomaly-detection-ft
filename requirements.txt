@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+ray
+tqdm
+beautifulsoup4
+wget
+scikit-learn
+scipy
